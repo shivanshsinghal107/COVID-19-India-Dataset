@@ -1,5 +1,5 @@
 # covid-19-dataset
-This dataset is a web-scraped data from Indian Goverment's website:
+This dataset is a web-scraped data from Indian Ministry of Health and Family Welfare website:
 > https://www.mohfw.gov.in/
 
 You can download the dataset from:
