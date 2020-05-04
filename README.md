@@ -3,4 +3,4 @@ This dataset is a web-scraped data from Indian Ministry of Health and Family Wel
 > https://www.mohfw.gov.in/
 
 You can download the dataset from:
-> https://www.kaggle.com/shivanshsinghal107/covid19-india-dataset/activity
+> https://www.kaggle.com/shivanshsinghal107/covid19-india-dataset/
