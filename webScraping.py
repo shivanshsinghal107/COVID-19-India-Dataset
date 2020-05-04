@@ -1,8 +1,6 @@
 import requests
-import subprocess
 from bs4 import BeautifulSoup
 import pandas as pd
-import numpy as np
 
 def get_table():
     url = 'https://www.mohfw.gov.in/'
@@ -59,3 +57,5 @@ def get_inddata():
     df = df[['State/UT', 'Confirmed', 'Deaths', 'Recovered', 'Active']]
     df = df.sort_values(by = 'Confirmed', ascending = False).reset_index(drop = True)
     return df
+
+get_inddata()
