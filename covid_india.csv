@@ -1,35 +1,35 @@
-,S. No.,Name of State / UT,Total Confirmed cases*,Cured/Discharged/Migrated,Deaths**
+,S. No.,Name of State / UT,Total Confirmed cases*,Cured/Discharged/Migrated,Deaths
 0,1,Andaman and Nicobar Islands,33,33,0
-1,2,Andhra Pradesh,2532,1621,52
+1,2,Andhra Pradesh,2602,1640,53
 2,3,Arunachal Pradesh,1,1,0
-3,4,Assam,142,41,4
-4,5,Bihar,1498,534,9
-5,6,Chandigarh,200,57,3
-6,7,Chhattisgarh,101,59,0
+3,4,Assam,170,48,4
+4,5,Bihar,1674,571,10
+5,6,Chandigarh,202,57,3
+6,7,Chhattisgarh,115,59,0
 7,8,Dadar Nagar Haveli,1,0,0
-8,9,Delhi,10554,4750,168
-9,10,Goa,46,7,0
-10,11,Gujarat,12140,5043,719
-11,12,Haryana,964,627,14
-12,13,Himachal Pradesh,92,47,3
-13,14,Jammu and Kashmir,1317,653,17
+8,9,Delhi,11088,5192,176
+9,10,Goa,50,7,0
+10,11,Gujarat,12537,5219,749
+11,12,Haryana,993,648,14
+12,13,Himachal Pradesh,110,54,3
+13,14,Jammu and Kashmir,1390,678,18
 14,15,Jharkhand,231,127,3
-15,16,Karnataka,1397,544,40
-16,17,Kerala,642,497,4
-17,18,Ladakh,43,43,0
-18,19,Madhya Pradesh,5465,2630,258
-19,20,Maharashtra,37136,9639,1325
-20,21,Manipur,9,2,0
-21,22,Meghalaya,13,12,1
+15,16,Karnataka,1462,556,41
+16,17,Kerala,666,502,4
+17,18,Ladakh,44,43,0
+18,19,Madhya Pradesh,5735,2733,267
+19,20,Maharashtra,39297,10318,1390
+20,21,Manipur,25,2,0
+21,22,Meghalaya,14,12,1
 22,23,Mizoram,1,1,0
-23,24,Odisha,978,277,5
-24,25,Puducherry,18,9,1
-25,26,Punjab,2002,1642,38
-26,27,Rajasthan,5845,3337,143
-27,28,Tamil Nadu,12448,4895,84
-28,29,Telengana,1634,1010,38
-29,30,Tripura,173,116,0
-30,31,Uttarakhand,111,52,1
-31,32,Uttar Pradesh,4926,2918,123
-32,33,West Bengal,2961,1074,250
-33,,Cases being reassigned to states,1096,,
+23,24,Odisha,1052,307,6
+24,25,Puducherry,18,9,0
+25,26,Punjab,2005,1794,38
+26,27,Rajasthan,6015,3404,147
+27,28,Tamil Nadu,13191,5882,87
+28,29,Telengana,1661,1015,40
+29,30,Tripura,173,133,0
+30,31,Uttarakhand,122,53,1
+31,32,Uttar Pradesh,5175,3066,127
+32,33,West Bengal,3103,1136,253
+33,,Cases being reassigned to states,1403,,
