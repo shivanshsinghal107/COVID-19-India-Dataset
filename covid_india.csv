@@ -1,37 +1,37 @@
-,S. No.,Name of State / UT,Total Confirmed cases*,Cured/Discharged/Migrated,Deaths**
+,S. No.,Name of State / UT,Total Confirmed cases,Cured/Discharged/Migrated,Deaths
 0,1,Andaman and Nicobar Islands,33,33,0
-1,2,Andhra Pradesh,3171,2057,58
-2,3,Arunachal Pradesh,2,1,0
-3,4,Assam,781,87,4
-4,5,Bihar,3061,1083,15
-5,6,Chandigarh,279,187,4
-6,7,Chhattisgarh,369,83,0
+1,2,Andhra Pradesh,3251,2125,59
+2,3,Arunachal Pradesh,3,1,0
+3,4,Assam,856,104,4
+4,5,Bihar,3296,1211,15
+5,6,Chandigarh,288,189,4
+6,7,Chhattisgarh,399,83,0
 7,8,Dadar Nagar Haveli,2,0,0
-8,9,Delhi,15257,7264,303
-9,10,Goa,68,37,0
-10,11,Gujarat,15195,7549,938
-11,12,Haryana,1381,838,18
-12,13,Himachal Pradesh,273,70,5
-13,14,Jammu and Kashmir,1921,854,26
-14,15,Jharkhand,448,185,4
-15,16,Karnataka,2418,781,47
-16,17,Kerala,1004,552,7
-17,18,Ladakh,53,43,0
-18,19,Madhya Pradesh,7261,3927,313
-19,20,Maharashtra,56948,17918,1897
-20,21,Manipur,44,4,0
-21,22,Meghalaya,20,12,1
+8,9,Delhi,16281,7495,316
+9,10,Goa,69,38,0
+10,11,Gujarat,15562,8003,960
+11,12,Haryana,1504,881,19
+12,13,Himachal Pradesh,276,70,5
+13,14,Jammu and Kashmir,2036,859,27
+14,15,Jharkhand,469,212,4
+15,16,Karnataka,2533,834,47
+16,17,Kerala,1088,555,7
+17,18,Ladakh,73,43,0
+18,19,Madhya Pradesh,7453,4050,321
+19,20,Maharashtra,59546,18616,1982
+20,21,Manipur,55,5,0
+21,22,Meghalaya,21,12,1
 22,23,Mizoram,1,1,0
-23,24,Nagaland,4,0,0
-24,25,Odisha,1593,733,7
-25,26,Puducherry,46,12,0
-26,27,Punjab,2139,1918,40
-27,28,Rajasthan,7703,4457,173
+23,24,Nagaland,18,0,0
+24,25,Odisha,1660,887,7
+25,26,Puducherry,51,14,0
+26,27,Punjab,2158,1946,40
+27,28,Rajasthan,8067,4817,180
 28,29,Sikkim,1,0,0
-29,30,Tamil Nadu,18545,9909,133
-30,31,Telengana,2098,1284,63
-31,32,Tripura,230,165,0
-32,33,Uttarakhand,469,79,4
-33,34,Uttar Pradesh,6991,3991,182
-34,35,West Bengal,4192,1578,289
-35,,Cases being reassigned to states,4332,,
+29,30,Tamil Nadu,19372,10548,145
+30,31,Telengana,2256,1345,67
+31,32,Tripura,242,167,0
+32,33,Uttarakhand,500,79,4
+33,34,Uttar Pradesh,7170,4215,197
+34,35,West Bengal,4536,1668,295
+35,,Cases being reassigned to states,4673,,
