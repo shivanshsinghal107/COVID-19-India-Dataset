@@ -1,37 +1,37 @@
 ,S. No.,Name of State / UT,Active Cases,Cured/Discharged/Migrated,Deaths,Total Confirmed cases
 0,1,Andaman and Nicobar Islands,0,33,0,33
-1,2,Andhra Pradesh,1150,2226,60,3436
-2,3,Arunachal Pradesh,2,1,0,3
-3,4,Assam,895,125,4,1024
-4,5,Bihar,2150,1211,15,3376
+1,2,Andhra Pradesh,1220,2289,60,3569
+2,3,Arunachal Pradesh,3,1,0,4
+3,4,Assam,1018,163,4,1185
+4,5,Bihar,1998,1618,20,3636
 5,6,Chandigarh,96,189,4,289
-6,7,Chhattisgarh,314,100,1,415
+6,7,Chhattisgarh,344,102,1,447
 7,8,Dadar Nagar Haveli,2,0,0,2
-8,9,Delhi,9142,7846,398,17386
-9,10,Goa,28,41,0,69
-10,11,Gujarat,6343,8611,980,15934
-11,12,Haryana,762,940,19,1721
-12,13,Himachal Pradesh,203,87,5,295
-13,14,Jammu and Kashmir,1261,875,28,2164
-14,15,Jharkhand,290,216,5,511
-15,16,Karnataka,1839,894,48,2781
-16,17,Kerala,577,565,8,1150
+8,9,Delhi,10058,8075,416,18549
+9,10,Goa,29,41,0,70
+10,11,Gujarat,6106,9230,1007,16343
+11,12,Haryana,932,971,20,1923
+12,13,Himachal Pradesh,197,111,5,313
+13,14,Jammu and Kashmir,1405,908,28,2341
+14,15,Jharkhand,302,256,5,563
+15,16,Karnataka,1877,997,48,2922
+16,17,Kerala,624,575,9,1208
 17,18,Ladakh,31,43,0,74
-18,19,Madhya Pradesh,3042,4269,334,7645
-19,20,Maharashtra,33133,26997,2098,62228
-20,21,Manipur,51,8,0,59
+18,19,Madhya Pradesh,3104,4444,343,7891
+19,20,Maharashtra,34890,28081,2197,65168
+20,21,Manipur,54,8,0,62
 21,22,Meghalaya,14,12,1,27
 22,23,Mizoram,0,1,0,1
-23,24,Nagaland,25,0,0,25
-24,25,Odisha,829,887,7,1723
+23,24,Nagaland,36,0,0,36
+24,25,Odisha,762,1050,7,1819
 25,26,Puducherry,37,14,0,51
-26,27,Punjab,206,1949,42,2197
-27,28,Rajasthan,2937,5244,184,8365
+26,27,Punjab,222,1967,44,2233
+27,28,Rajasthan,2685,5739,193,8617
 28,29,Sikkim,1,0,0,1
-29,30,Tamil Nadu,8779,11313,154,20246
-30,31,Telengana,973,1381,71,2425
-31,32,Tripura,80,171,0,251
-32,33,Uttarakhand,609,102,5,716
-33,34,Uttar Pradesh,2842,4244,198,7284
-34,35,West Bengal,2736,1775,302,4813
-35,,Cases being reassigned to states,5043,,,5043
+29,30,Tamil Nadu,9024,12000,160,21184
+30,31,Telengana,1010,1412,77,2499
+31,32,Tripura,96,172,0,268
+32,33,Uttarakhand,642,102,5,749
+33,34,Uttar Pradesh,2834,4410,201,7445
+34,35,West Bengal,2851,1970,309,5130
+35,,Cases being reassigned to states,5491,,,5491
