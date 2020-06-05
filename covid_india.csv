@@ -1,37 +1,37 @@
 ,S. No.,Name of State / UT,Active Cases,Cured/Discharged/Migrated,Deaths,Total Confirmed cases
 0,1,Andaman and Nicobar Islands,0,33,0,33
-1,2,Andhra Pradesh,1546,2466,68,4080
-2,3,Arunachal Pradesh,37,1,0,38
-3,4,Assam,1255,413,4,1672
-4,5,Bihar,2288,2077,25,4390
+1,2,Andhra Pradesh,1613,2539,71,4223
+2,3,Arunachal Pradesh,41,1,0,42
+3,4,Assam,1542,442,4,1988
+4,5,Bihar,2254,2210,29,4493
 5,6,Chandigarh,82,214,5,301
-6,7,Chhattisgarh,478,188,2,668
-7,8,Dadar Nagar Haveli,7,1,0,8
-8,9,Delhi,13497,9542,606,23645
-9,10,Goa,22,57,0,79
-10,11,Gujarat,4766,12212,1122,18100
-11,12,Haryana,1842,1089,23,2954
-12,13,Himachal Pradesh,204,150,5,359
-13,14,Jammu and Kashmir,1816,1007,34,2857
-14,15,Jharkhand,426,321,5,752
-15,16,Karnataka,2496,1514,53,4063
-16,17,Kerala,832,651,11,1494
+6,7,Chhattisgarh,541,213,2,756
+7,8,Dadar Nagar Haveli,11,1,0,12
+8,9,Delhi,14456,9898,650,25004
+9,10,Goa,109,57,0,166
+10,11,Gujarat,4762,12667,1155,18584
+11,12,Haryana,1123,2134,24,3281
+12,13,Himachal Pradesh,199,179,5,383
+13,14,Jammu and Kashmir,2059,1048,35,3142
+14,15,Jharkhand,433,354,6,793
+15,16,Karnataka,2653,1610,57,4320
+16,17,Kerala,884,690,14,1588
 17,18,Ladakh,41,48,1,90
-18,19,Madhya Pradesh,2772,5445,371,8588
-19,20,Maharashtra,39944,32329,2587,74860
-20,21,Manipur,80,38,0,118
+18,19,Madhya Pradesh,2748,5637,377,8762
+19,20,Maharashtra,41402,33681,2710,77793
+20,21,Manipur,86,38,0,124
 21,22,Meghalaya,19,13,1,33
-22,23,Mizoram,13,1,0,14
-23,24,Nagaland,58,0,0,58
-24,25,Odisha,965,1416,7,2388
+22,23,Mizoram,16,1,0,17
+23,24,Nagaland,80,0,0,80
+24,25,Odisha,1055,1416,7,2478
 25,26,Puducherry,57,25,0,82
-26,27,Punjab,300,2029,47,2376
-27,28,Rajasthan,2699,6744,209,9652
+26,27,Punjab,325,2043,47,2415
+27,28,Rajasthan,2545,7104,213,9862
 28,29,Sikkim,2,0,0,2
-29,30,Tamil Nadu,11348,14316,208,25872
-30,31,Telengana,1365,1556,99,3020
-31,32,Tripura,295,173,0,468
-32,33,Uttarakhand,795,282,8,1085
-33,34,Uttar Pradesh,3324,5176,229,8729
-34,35,West Bengal,3583,2580,345,6508
-35,,Cases being reassigned to states,7483,,,7483
+29,30,Tamil Nadu,12134,14902,220,27256
+30,31,Telengana,1455,1587,105,3147
+31,32,Tripura,471,173,0,644
+32,33,Uttarakhand,846,297,10,1153
+33,34,Uttar Pradesh,3553,5439,245,9237
+34,35,West Bengal,3753,2768,355,6876
+35,,Cases being reassigned to states,7610,,,7610
