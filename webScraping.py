@@ -48,14 +48,14 @@ def get_dataframe():
     df = pd.read_csv(f"{table_name}.csv")
     return df
 
-def get_inddata():
-    df = get_dataframe()
-    df.dropna(inplace = True)
-    df.drop(columns = ['Unnamed: 0', 'S. No.'], inplace = True)
-    df.columns = ['State/UT', 'Confirmed', 'Recovered', 'Deaths']
-    df['Active'] = df['Confirmed'] - df['Deaths'] - df['Recovered']
-    df = df[['State/UT', 'Confirmed', 'Deaths', 'Recovered', 'Active']]
-    df = df.sort_values(by = 'Confirmed', ascending = False).reset_index(drop = True)
-    return df
+#def get_inddata():
+#    df = get_dataframe()
+#    df.dropna(inplace = True)
+#    df.drop(columns = ['Unnamed: 0', 'S. No.'], inplace = True)
+#    df.columns = ['State/UT', 'Confirmed', 'Recovered', 'Deaths']
+#    return df
+#    df['Active'] = df['Confirmed'] - df['Deaths'] - df['Recovered']
+#    df = df[['State/UT', 'Confirmed', 'Deaths', 'Recovered', 'Active']]
+#    df = df.sort_values(by = 'Confirmed', ascending = False).reset_index(drop = True)
 
-get_inddata()
+get_dataframe()
