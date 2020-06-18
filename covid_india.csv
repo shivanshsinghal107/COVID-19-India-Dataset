@@ -1,37 +1,37 @@
 S. No.,Name of State / UT,Active Cases,Cured/Discharged/Migrated,Deaths,Total Confirmed cases
-1,Andaman and Nicobar Islands,5,33,0,38
-2,Andhra Pradesh,2688,3195,82,5965
-3,Arunachal Pradesh,83,4,0,87
-4,Assam,2126,1584,8,3718
-5,Bihar,2295,3956,39,6290
-6,Chandigarh,54,286,5,345
-7,Chhattisgarh,875,631,6,1512
-8,Dadra and Nagar Haveli and Daman and Diu,33,2,0,35
-9,Delhi,22742,14945,1271,38958
-10,Goa,453,70,0,523
-11,Gujarat,5707,15883,1448,23038
-12,Haryana,3868,2803,78,6749
-13,Himachal Pradesh,183,313,6,502
-14,Jammu and Kashmir,2554,2269,55,4878
-15,Jharkhand,887,816,8,1711
-16,Karnataka,3095,3648,81,6824
-17,Kerala,1342,1046,19,2407
-18,Ladakh,368,68,1,437
-19,Madhya Pradesh,2817,7377,447,10641
-20,Maharashtra,51392,49346,3830,104568
-21,Manipur,358,91,0,449
-22,Meghalaya,21,22,1,44
-23,Mizoram,106,1,0,107
-24,Nagaland,87,76,0,163
-25,Odisha,1119,2594,10,3723
-26,Puducherry,92,82,2,176
-27,Punjab,671,2327,65,3063
-28,Rajasthan,2782,9337,282,12401
-29,Sikkim,59,4,0,63
-30,Tamil Nadu,18881,23409,397,42687
-31,Telangana,2203,2352,182,4737
-32,Tripura,730,315,1,1046
-33,Uttarakhand,685,1077,23,1785
-34,Uttar Pradesh,4858,7875,385,13118
-35,West Bengal,5693,4542,463,10698
-,Cases being reassigned to states,7436,,,7436
+1,Andaman and Nicobar Islands,11,33,0,44
+2,Andhra Pradesh,3340,3641,90,7071
+3,Arunachal Pradesh,92,7,0,99
+4,Assam,1955,2642,8,4605
+5,Bihar,1972,4926,44,6942
+6,Chandigarh,59,303,6,368
+7,Chhattisgarh,674,1180,10,1864
+8,Dadra and Nagar Haveli and Daman and Diu,45,12,0,57
+9,Delhi,27741,17457,1904,47102
+10,Goa,560,96,0,656
+11,Gujarat,6103,17430,1560,25093
+12,Haryana,4750,3952,130,8832
+13,Himachal Pradesh,189,372,8,569
+14,Jammu and Kashmir,2427,2914,65,5406
+15,Jharkhand,734,1151,10,1895
+16,Karnataka,2828,4804,102,7734
+17,Kerala,1351,1326,20,2697
+18,Ladakh,594,92,1,687
+19,Madhya Pradesh,2374,8388,482,11244
+20,Maharashtra,51935,59166,5651,116752
+21,Manipur,360,192,0,552
+22,Meghalaya,13,30,1,44
+23,Mizoram,120,1,0,121
+24,Nagaland,90,103,0,193
+25,Odisha,1280,3047,11,4338
+26,Puducherry,129,109,7,245
+27,Punjab,881,2538,78,3497
+28,Rajasthan,2762,10467,313,13542
+29,Sikkim,66,4,0,70
+30,Tamil Nadu,21993,27624,576,50193
+31,Telangana,2412,3071,192,5675
+32,Tripura,578,556,1,1135
+33,Uttarakhand,743,1254,26,2023
+34,Uttar Pradesh,5259,8904,435,14598
+35,West Bengal,5261,6533,506,12300
+,Cases being reassigned to states,8703,,,8703
